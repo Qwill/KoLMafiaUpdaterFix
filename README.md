@@ -1,4 +1,4 @@
-KoLMafiaUpdate.exe is a program that updates your KoLMafia.jar to the latest version. This is an edit of https://kolmafia.us/threads/automatically-download-the-newest-daily-build.2856/ by Lynnielily which now fetches the correct URL.
+KoLMafiaUpdate.exe is a program that updates your KoLMafia.jar to the latest version. This is an edit of `https://kolmafia.us/threads/automatically-download-the-newest-daily-build.2856/` by Lynnielily which now fetches the correct URL.
 
 ### Usage Instructions
 1. Click the green Code button and select "Download ZIP"
